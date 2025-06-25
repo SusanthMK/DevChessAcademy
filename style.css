@@ -38,3 +38,36 @@ form button:hover {
   background: #ffbb00;
   color: black;
 }
+.course-cards {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 20px;
+  padding: 30px 0;
+}
+
+.course-card {
+  width: 280px;
+  padding: 25px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  color: white;
+  font-weight: normal;
+}
+
+.course-card h3 {
+  margin-top: 0;
+}
+
+.beginner {
+  background: #3498db; /* Blue */
+}
+
+.intermediate {
+  background: #2ecc71; /* Green */
+}
+
+.advanced {
+  background: #e74c3c; /* Red */
+}
+
