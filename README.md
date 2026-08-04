@@ -11,7 +11,7 @@ Dev Chess Academy is a premium, professional web platform designed for a chess a
 - **Admin Panel:** A dedicated portal for administrators to upload new video lessons securely to the Supabase database.
 - **Dynamic Content:** Animated statistics counters, an interactive FAQ accordion, and research-backed "Benefits of Chess" sections.
 - **Global Utilities:** Sticky "Back to Top" navigation and a floating WhatsApp action button for instant support.
-
+  
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML5, CSS3 (Vanilla, custom design system), JavaScript (ES6+)
